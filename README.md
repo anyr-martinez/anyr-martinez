@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Any Raquel, Ingeniera en Ciencias de la Computacion 
+# 👋 ¡Hola! Soy Any Raquel, Ingeniera en Ciencias de la Computación 
 
 Soy desarrolladora Frontend apasionada por crear experiencias web bonitas y funcionales.
 

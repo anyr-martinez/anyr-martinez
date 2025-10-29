@@ -11,11 +11,14 @@ Soy desarrolladora Frontend apasionada por crear experiencias web bonitas y func
 ## 🌱 Actualmente aprendiendo
 - Firebase
 - Material UI
-- React + Electron 
+- React + Electron
+- React + Vite
 
 ## 📌 Proyectos destacados
 - 🛍️ [Subasta de Café - Cohorsil](https://github.com/anyraquel/subasta-cafe)
 - 🧾 [Gestor de anticipos](https://github.com/anyraquel/gestor-anticipos)
+- 🧾 [Juego de Memoria](https://github.com/anyraquel/memoria-cohorsil)
+  
 
 ---
 💬 ¡Gracias por visitar mi perfil!
